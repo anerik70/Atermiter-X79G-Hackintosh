@@ -11,3 +11,4 @@ macOS BigSur, Monterrey and Ventura
 ![Captura de pantalla 2023-04-12 a la(s) 6 30 21 p m](https://user-images.githubusercontent.com/5209138/231609329-a130b754-4817-4050-a75d-fc71ecb1dca9.png)
 
 For Ventura PowerManagement I unlocked MSRE2 with a Modified Bios.
+If you have locked CFG, is mandatory to enable AppleCpuPmCfgLock and AppleXcpmCfgLock under kernel quirks in your config.plist
